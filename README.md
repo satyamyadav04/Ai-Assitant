@@ -23,14 +23,18 @@ State Management: Context API / Redux (optional)
 APIs: Axios / Fetch
 
 Animation (optional): Framer Motion
+
 ⚙️ Installation
-##Clone the Repository
+
+Clone the Repository
 git clone https://github.com/your-username/ai-assistant-react.git
 cd ai-assistant-react
-##Install Dependencies
+
+Install Dependencies
 npm install
 
-##Start the Development Server
+Start the Development Server
 npm run dev
-##Build for Production
+
+Build for Production
 npm run build
